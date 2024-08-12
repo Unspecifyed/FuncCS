@@ -1,0 +1,14 @@
+/home/francis/Documents/FuncCS/bin/Debug/net8.0/FuncCS
+/home/francis/Documents/FuncCS/bin/Debug/net8.0/FuncCS.deps.json
+/home/francis/Documents/FuncCS/bin/Debug/net8.0/FuncCS.runtimeconfig.json
+/home/francis/Documents/FuncCS/bin/Debug/net8.0/FuncCS.dll
+/home/francis/Documents/FuncCS/bin/Debug/net8.0/FuncCS.pdb
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.AssemblyInfoInputs.cache
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.AssemblyInfo.cs
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.csproj.CoreCompileInputs.cache
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.dll
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/refint/FuncCS.dll
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.pdb
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.genruntimeconfig.cache
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/ref/FuncCS.dll
