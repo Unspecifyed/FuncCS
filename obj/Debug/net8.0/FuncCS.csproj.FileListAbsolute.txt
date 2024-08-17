@@ -12,3 +12,4 @@
 /home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.pdb
 /home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.genruntimeconfig.cache
 /home/francis/Documents/FuncCS/obj/Debug/net8.0/ref/FuncCS.dll
+/home/francis/Documents/FuncCS/obj/Debug/net8.0/FuncCS.sourcelink.json

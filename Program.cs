@@ -7,3 +7,12 @@ var triples = range.Select(triple);
 
 Console.WriteLine(string.Join(", ", triples)); // Displaying the values in the triples collection
 Console.WriteLine("asdfasdfasd");
+
+var isOdd = (int x_) => x_% 2==1;
+int[] original = {7,6,1 };
+var sorted = original.OrderBy(x => x);
+
+Console.WriteLine(string.Join(", ", sorted));
+
+var filtered = sorted.Where(isOdd);
+Console.WriteLine(string.Join(", ", filtered));
